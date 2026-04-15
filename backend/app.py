@@ -13,7 +13,7 @@ CORS(app)  # Enable CORS for all routes
 
 # Configuration
 IMG_SIZE = (128, 128)
-MODEL_PATH = "C:/Users/sivam/OneDrive/Documents/major_1/deepfake_detection_model.h5"
+MODEL_PATH = "C:/Users/91765/Downloads/major_1-main/major_1-main/deepfake_detection_model.h5"
 UPLOAD_FOLDER = os.path.join(os.getcwd(), "uploads")
 OUTPUT_FOLDER = os.path.join(os.getcwd(), "outputs")
 
